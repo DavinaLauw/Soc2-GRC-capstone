@@ -190,4 +190,4 @@ Submitted: March 2026
 
 ---
 
-*This project was completed as a graduate capstone using a fictitious company (VyletteTech). No real proprietary or classified information was used.*
+*This project was completed as a graduate capstone using VyletteTech company. No real proprietary or classified information was used.*
